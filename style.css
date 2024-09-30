@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(172, 201, 253);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    position: relative;
+}
+
+p {
+    font-size: o.5em;
+}
+
+body > header {
+    padding: 10px;
+    font-family: "Exo";
+    box-shadow: 8px 8px 10px 3px cornflowerblue;
+    width: 16%;
+    position: absolute;
+    text-shadow: 
+    1px 1px 0px cornflowerblue,
+    -1px 1px 0px cornflowerblue,
+    1px -1px 0px cornflowerblue,
+    -1px -1px 0px cornflowerblue;
+}
+
+h2 {
+    font-family: "Exo";
+    color: rgb(83, 137, 236);
+}
+
+h3 {
+    padding: 20px;
+    font-family: "Exo";
+    color: rgb(83, 137, 236);
+}
+
+body > header {
+    background-color: rgb(156, 190, 255);
+    color: rgb(83, 137, 236);
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+footer > section > nav > ul > div {
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.navbutton {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+body > main > div > article {
+    width: 80%;
+    top: 0%;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    position: relative;
+}
+
+body > main > aside {
+    padding: 10px;
+    font-family: "Exo";
+    width: 16%;
+    position: absolute;
+    margin-top: 300px;
+}
+
+h3 {
+    width: 30%;
+    margin: auto;
+}
+
+h5 {
+    width: 30%;
+    margin: auto;
+}
+
+body > footer {
+    background-color: rgb(156, 190, 255);
+    display: flex;
+    list-style: none;
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+
